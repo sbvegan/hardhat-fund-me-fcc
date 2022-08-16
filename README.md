@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Hardhat Fund Me FCC
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Following along on with Patrick Collins' [Free Code Camp Course](https://youtu.be/gyMwXuJrbJQ?t=39605)
